@@ -108,6 +108,6 @@ li a:hover{
 	justify-content: center;
 	height: auto;
 	text-decoration: none;
-	position: fixed;
+	position: absolute;
 }
 
